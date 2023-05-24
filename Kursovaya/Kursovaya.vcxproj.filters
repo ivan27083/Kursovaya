@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="music.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="hitsound.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="combobreak.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="button.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="gear.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="stick.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="arrow.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="tree_20.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="tree_10.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="tree_15.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="tree_5.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="tree.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="watermelon_20.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="watermelon.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="watermelon_5.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="watermelon_10.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="watermelon_15.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="cross.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Green.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="heart.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Brown.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Red.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Purple.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="LightGreen.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="DarkBlue.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Pokeball_20.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Pokeball_15.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Pokeball_10.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Pokeball_5.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Grey.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Black.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Pokeball.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="square.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="RedCircle.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="PurpleCircle.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="GreyCircle.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="GreenCircle.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="LightGreenCircle.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="BrownCircle.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="BlackCircle.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="flame.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="BrownCircleBold.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="BlackCircleBold.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="fon.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="GreenCircleBold.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="GreyCircleBold.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="LightGreenCircleBold.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="PurpleCircleBold.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="RedCircleBold.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="flame_5.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="flame_10.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="flame_15.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="flame_20.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Orange.bmp">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Text.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="tree5.txt" />
+    <Text Include="watermelon5.txt" />
+    <Text Include="tree10.txt" />
+    <Text Include="watermelon10.txt" />
+    <Text Include="records.txt" />
+    <Text Include="tree15.txt" />
+    <Text Include="tree20.txt" />
+    <Text Include="watermelon15.txt" />
+    <Text Include="watermelon20.txt" />
+    <Text Include="Pokeball5.txt" />
+    <Text Include="Pokeball10.txt" />
+    <Text Include="Pokeball15.txt" />
+  </ItemGroup>
+</Project>
